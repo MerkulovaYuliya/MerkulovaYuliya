@@ -1,13 +1,10 @@
 #elem {
-	padding: 10px;
-	width: 300px;
-	border: 1px solid red;
-	text-align: justify;
-}
+	padding-top: 10px;
+	padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;
 
-#elem2 {
-	padding: 20px;
-	width: 400px;
-	border: 1px solid green;
+    width: 300px;
+	border: 1px solid red;
 	text-align: justify;
 }
